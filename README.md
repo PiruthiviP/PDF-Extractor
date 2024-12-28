@@ -74,7 +74,7 @@ Once you've set up the details in the script, you can execute it to process the 
 ### Command to Run:
 
 ```bash
-python extract_to_sheets.py
+python final.py
 ```
 
 ## Output of Google Sheets
