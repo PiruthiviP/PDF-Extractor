@@ -76,6 +76,13 @@ Once you've set up the details in the script, you can execute it to process the 
 ```bash
 python extract_to_sheets.py
 ```
+
+## Output of Google Sheets
+
+The following image shows the output in Google Sheets after running the script:
+
+![Google Sheets Output](https://github.com/PiruthiviP/PDF-Extractor/blob/main/output.png "Google Sheets Output")
+
 ## 5. Acknowledgements
 
 This project uses the following tools and libraries:
